@@ -1,8 +1,5 @@
-//https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/system/system_time.html
-
 #include <WiFi.h>
 #include "time.h"
-#include <SPI.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
